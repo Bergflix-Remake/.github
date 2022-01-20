@@ -13,4 +13,4 @@ It was originally build by a Team 7 people, but due to a lack of motivation the 
 !: Sure! You can either just commit to the github repository and open a pull request, or join the Discord server on the [homepage](https://bergflix.de)
 
 ?: Is there a developer version? \
-!: There is no working prototype version yet, but if you want you can clone the repositorys and see for yourself
+!: Yes, actually. The developer version is still lacking many core features, but its going to be updated semi-actively while developements are happening. You can find it [here](https://dev.bergflix.de/)
