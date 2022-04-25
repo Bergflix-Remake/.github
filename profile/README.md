@@ -14,3 +14,5 @@ It was originally build by a Team 7 people, but due to a lack of motivation the 
 
 ?: Is there a developer version? \
 !: Yes, actually. The developer version is still lacking many core features, but its going to be updated semi-actively while developements are happening. You can find it [here](https://dev.bergflix.de/)
+
+If you have other questions, join the [discord](https://discord.bergflix.de/) and check out the #faq channel!
